@@ -1,0 +1,32 @@
+1.List out all the environments.
+=========================
+conda env list
+
+
+2.Create new environment
+=============================
+conda create -p venv python=3.8
+
+
+3.Activate env
+====================== 
+conda activate venv
+
+or
+
+right click on venv---->Copy relative path
+
+conda activate relative path
+
+
+
+
+GitHub command
+==================
+
+
+git remote -v
+
+git add .
+
+git reset
