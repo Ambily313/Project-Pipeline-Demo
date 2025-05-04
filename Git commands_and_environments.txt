@@ -21,7 +21,7 @@ conda activate relative path
 
 
 
-GitHub command
+GitHub commands
 ==================
 
 
@@ -29,4 +29,13 @@ git remote -v
 
 git add .
 
-git reset
+git reset//for Undoing 
+
+git branch//Checking branch
+
+
+
+requiremnts.txt
+========================
+pip install -r requiremnts.txt
+
