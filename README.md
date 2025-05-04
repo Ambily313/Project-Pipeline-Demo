@@ -10,7 +10,7 @@ A production-ready, scalable, and modular machine learning pipeline project. Thi
 -  Config-driven workflow for easy parameter management
 -  End-to-end pipeline: data ingestion → validation → training → evaluation
 -  Testable, version-controlled, and ready for CI/CD
--  Flask API (optional) and Dockerized setup for deployment
+-  Flask API  and Dockerized setup for deployment
 -  Jupyter notebooks for data exploration and experiments
 -  Organized codebase for maximum scalability
 
